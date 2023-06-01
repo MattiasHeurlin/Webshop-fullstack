@@ -25,8 +25,6 @@ Installation
 You need Node.js, npm and MongoDB installed on your system.
 Frontend:
 
-bash
-
 # Install dependencies
 npm install
 
@@ -34,8 +32,6 @@ npm install
 npm run dev
 
 Backend:
-
-bash
 
 # Install dependencies
 npm install
